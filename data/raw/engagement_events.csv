@@ -1,0 +1,12 @@
+event_id,user_id,content_id,event_type,watch_time_seconds,event_timestamp,platform
+1,201,M001,play,300,2024-01-01 10:00:00,mobile
+2,201,M001,pause,100,2024-01-01 10:05:00,mobile
+3,202,M002,play,600,2024-01-01 11:00:00,tv
+4,203,M003,play,200,2024-01-01 11:15:00,web
+5,201,M001,complete,900,2024-01-01 11:30:00,mobile
+6,204,M004,play,0,2024-01-02 09:00:00,tv
+7,205,M005,play,450,2024-01-02 09:15:00,web
+8,202,M002,complete,700,2024-01-02 10:00:00,tv
+9,206,,play,300,2024-01-02 10:30:00,mobile
+10,207,M006,play,-50,2024-01-02 11:00:00,web
+11,201,M001,play,300,2024-01-01 10:00:00,mobile
